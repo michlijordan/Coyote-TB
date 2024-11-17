@@ -1,3 +1,0 @@
-[submodule "hw/services/networ"]
-	path = hw/services/networ
-	url = https://github.com/fpgasystems/fpga-network-stack.git
